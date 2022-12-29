@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net" modified="2022-12-29T21:24:10.954Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="kiT8lipXkOyKVI4qGO49" version="20.7.4" type="github">
+  <diagram id="PNLonHm5jULHA3bJ2cQa" name="Page-1">
+    <mxGraphModel dx="1050" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_XmQz3DBcFNW7GsXtD_Y-3" value="WebBook" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=45;fontStyle=1;fontColor=#FFFFFF;fontFamily=Helvetica;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="376.25" width="130" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="_XmQz3DBcFNW7GsXtD_Y-4" value="RC" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=30;labelBackgroundColor=#000000;fontColor=#FFFFFF;fillColor=#000000;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="355" width="75" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
